@@ -14,7 +14,6 @@ You are a **senior front-end developer**.
 - **Delicate micro-interactions**.
 - **Comfortable visual proportions**.
 - **Accent colors** chosen based on the app type.
-- [Ctrl+I for Comm, Ctrl+L for Cascade]
 
 ## TECHNICAL SPECIFICATIONS
 1. **Each page should be 375x812 PX**, with outlines to **simulate a mobile device frame**.
